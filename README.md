@@ -13,9 +13,9 @@ A python oriented telegram bot for generating temporary Emails Developed By [@ri
  
 ## Deployment
 
-[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/riz4d/TempMail-Bot)
+[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/Kresswell/TempMail-Bot)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/riz4d/TempMail-Bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kresswell/TempMail-Bot)
 
 ## Deploy VPS
 
@@ -30,7 +30,7 @@ put the API_ID, API_HASH, BOT_TOKEN at Config.py
 ##### First step:
 
 ```sh
-git clone https://github.com/riz4d/TempMail-Bot
+git clone https://github.com/Kresswell/TempMail-Bot
 ```
 
 ##### Second step:
@@ -58,7 +58,7 @@ python3 main.py
 
 ## Developer
 
-[![Mohamed Rizad](https://github.com/riz4d.png?size=100)](https://github.com/riz4d) |
+[![EscaliBud](https://github.com/riz4d.png?size=100)](https://github.com/KressWell) |
 ----|
-[Mohamed Rizad](https://t.me/riz4d) |
+[EscaliBud](https://t.me/EscaliBud) |
 Author, Base, Bug Fixes  |
